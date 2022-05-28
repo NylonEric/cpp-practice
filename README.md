@@ -15,7 +15,17 @@ OS X:
 3. Test version and path:
 
 ## Usage example
+https://siytek.com/how-to-compile-cpp-on-a-mac/
 
+Basic compile commands:
+```sh
+g++ -o ./print-number ./print-number.cpp
+```
+
+Additional verbose compile dialog:
+```sh
+g++ -o ./print-number ./print-number.cpp -Wall -pedantic -Weffc++ -Werror
+```
 ## Development setup
 
 ## Release History
