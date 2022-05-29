@@ -2,6 +2,8 @@
 
 > A collection of source code examples and design patterns for work in c++.
 
+- based on examples in https://www.instagram.com/p/CcxnBgoPO8M/
+
 - Information on compiling and environment setup for macos/VSCode:
 https://www.geeksforgeeks.org/different-ways-to-setting-up-environment-for-cpp-programming-in-mac/
 
